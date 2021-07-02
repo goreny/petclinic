@@ -1,13 +1,8 @@
 
-## How to clone repo
-In command prompt run the following command > for HTTP
+## Clone repo
 ```
-https://github.com/goreny/petclinic.git
+git clone https://github.com/goreny/petclinic.git
 ```
-
-
-## Importing project
-In your IDE File>Import Project>[select cloned repo directory]
 
 ## How to run the tests
 
@@ -16,3 +11,4 @@ Run *all* tests with the following command
 ```
 mvn test
 ```
+Notes: Only covered 2 scenarios out of 8. Time limit is 3-6hs. This is all I could do in that time frame.
